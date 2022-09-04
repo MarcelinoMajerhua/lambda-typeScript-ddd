@@ -1,0 +1,19 @@
+{
+  "name": "typescript-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-status": "^1.5.2",
+    "lambda-api": "^0.11.2",
+    "mongoose": "^6.5.0",
+    "tsc": "^2.0.4",
+    "uuid": "^8.3.2"
+  }
+}
